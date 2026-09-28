@@ -1,0 +1,681 @@
+[
+  {
+    "name": "Schneider",
+    "level": 1,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Bleak",
+    "level": 1,
+    "location": "Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Barbel",
+    "level": 1,
+    "location": "Shallow River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Chub",
+    "level": 1,
+    "location": "Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Oriental Shrimp",
+    "level": 1,
+    "location": "River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Prawn",
+    "level": 1,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Crucian Carp",
+    "level": 1,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Whitefish",
+    "level": 1,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Sea Stickleback",
+    "level": 1,
+    "location": "Old Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Scad",
+    "level": 1,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Skipjack Tuna",
+    "level": 1,
+    "location": "Ocean",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Spined Loach",
+    "level": 1,
+    "location": "Giantwood River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Sea Bass",
+    "level": 1,
+    "location": "Ocean",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Europian Perch",
+    "level": 1,
+    "location": "River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Streber",
+    "level": 1,
+    "location": "Rosy River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Minnow",
+    "level": 1,
+    "location": "Tranquil River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Beltfish",
+    "level": 1,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Striped Red Mullet",
+    "level": 1,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Sardine",
+    "level": 1,
+    "location": "Ocean",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Tench",
+    "level": 1,
+    "location": "Forest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Seahorse",
+    "level": 2,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Night"]
+  },
+  {
+    "name": "Europian Smelt",
+    "level": 2,
+    "location": "Meadow Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "False Scad",
+    "level": 2,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Largemouth Bass",
+    "level": 2,
+    "location": "Meadow Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Stone Loach",
+    "level": 2,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Anglerfish",
+    "level": 2,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Octopus",
+    "level": 2,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Atlantic Pygmy Octopus",
+    "level": 2,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Turbot",
+    "level": 2,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Hermit Crab",
+    "level": 3,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Europian Crayfish",
+    "level": 3,
+    "location": "Forest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Zander",
+    "level": 3,
+    "location": "Giantwood River",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Ruffe",
+    "level": 3,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Mud Sunfish",
+    "level": 3,
+    "location": "Forest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Clownfish",
+    "level": 3,
+    "location": "Old Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Edible Frog",
+    "level": 3,
+    "location": "Lake (__Mermaid Fish Attractor__)",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Atlantic Salmon",
+    "level": 3,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Tilapia",
+    "level": 3,
+    "location": "River (__Mermaid Fish Attractor__)",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "River Crab",
+    "level": 4,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Carp",
+    "level": 4,
+    "location": "Rosy River",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Butterfly Koi",
+    "level": 4,
+    "location": "Meadow Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Burbot",
+    "level": 4,
+    "location": "Tranquil River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Mussel",
+    "level": 4,
+    "location": "Suburban Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Goby",
+    "level": 4,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Red-bellied Piranha",
+    "level": 4,
+    "location": "Giantwood River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Plaice",
+    "level": 4,
+    "location": "Old Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Rabbit Fish",
+    "level": 4,
+    "location": "Ocean (__Mermaid Fish Attractor__)",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Tadpole",
+    "level": 4,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Freshwater Blenny",
+    "level": 5,
+    "location": "Rosy River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Atlantic Mackerel",
+    "level": 5,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "European Flying Squid",
+    "level": 5,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Lobster",
+    "level": 5,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Common Rudd",
+    "level": 5,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Trout",
+    "level": 5,
+    "location": "Meadow Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Large Pearl Mussel",
+    "level": 6,
+    "location": "Forest Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Puffer Fish",
+    "level": 6,
+    "location": "Old Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Tub Gurnard",
+    "level": 6,
+    "location": "East Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Chum Salmon",
+    "level": 6,
+    "location": "Tranquil River",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Nursehound",
+    "level": 6,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Grayling",
+    "level": 6,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Eel",
+    "level": 7,
+    "location": "Old Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Blackspot Seabream",
+    "level": 7,
+    "location": "Zephyr Sea",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Mediterranean Killifish",
+    "level": 7,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Three-spined Stickleback",
+    "level": 7,
+    "location": "Shallow River",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Giant Oarfish",
+    "level": 7,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Mottled Sculpin",
+    "level": 7,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "King Crab",
+    "level": 8,
+    "location": "Whale Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Golden King Crab",
+    "level": 8,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blue European Crayfish",
+    "level": 8,
+    "location": "Forest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Haddock",
+    "level": 8,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Goldfish",
+    "level": 8,
+    "location": "Meadow Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "European Mudminnow",
+    "level": 8,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dawn", "Night"]
+  },
+  {
+    "name": "Bluefin Tuna",
+    "level": 9,
+    "location": "Zephyr Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Northern Pike",
+    "level": 9,
+    "location": "Suburban Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Moonfish",
+    "level": 9,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Ocean Sunfish",
+    "level": 9,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dawn", "Night"]
+  },
+  {
+    "name": "Pumpkinseed",
+    "level": 9,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Huchen",
+    "level": 9,
+    "location": "Giantwood River",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Swordfish",
+    "level": 10,
+    "location": "Whale Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Wels Catfish",
+    "level": 10,
+    "location": "Meadow Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Bluegill",
+    "level": 10,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Shortfin Mako Shark",
+    "level": 10,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Smooth Hammerhead",
+    "level": 10,
+    "location": "Old Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Arctic Char",
+    "level": 10,
+    "location": "Forest Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Asian Arowana",
+    "level": 11,
+    "location": "Meadow Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blackspot Sergeant",
+    "level": 11,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Lionhead",
+    "level": 11,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Whale Shark",
+    "level": 11,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Mahi-mahi",
+    "level": 12,
+    "location": "Old Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn"]
+  },
+  {
+    "name": "Moon Jelly",
+    "level": 12,
+    "location": "[Event] Sea Fishing",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Angelfish",
+    "level": 12,
+    "location": "Suburban Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Dusk", "Night"]
+  },
+  {
+    "name": "Pink Betta",
+    "level": 12,
+    "location": "Forest Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Green Sea Turtle",
+    "level": 12,
+    "location": "Whale Sea",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "White-faced Surgeonfish",
+    "level": 13,
+    "location": "Old Sea",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Lionfish",
+    "level": 13,
+    "location": "Whale Sea",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Dawn", "Night"]
+  },
+  {
+    "name": "Blue-and-Yellow Wrasse",
+    "level": 14,
+    "location": "East Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Azure Demoiselle",
+    "level": 14,
+    "location": "Zephyr Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  }
+]

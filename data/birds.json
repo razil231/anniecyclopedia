@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Mallard",
+    "level": 1,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Bearded Reedling",
+    "level": 1,
+    "location": "Stone Cliff\nOnsen\nCrater Lake\nRuins",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Bullfinch",
+    "level": 1,
+    "location": "Suburbs",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Wren",
+    "level": 1,
+    "location": "Spirit-Oak Pine Forest\nForest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Pied Imperial Pigeon",
+    "level": 1,
+    "location": "East Pier of Fishing Village\nFishing Village Square\nWharf",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Greater Flamingo",
+    "level": 1,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blue-and-Yellow Macaw",
+    "level": 1,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Long-tailed Tit",
+    "level": 1,
+    "location": "Blanc's head",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Wonga Pigeon",
+    "level": 1,
+    "location": "Spirit-Oak Pine Forest\nDeer Tower\nForest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blue Peafowl",
+    "level": 1,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Robin",
+    "level": 1,
+    "location": "Central Square",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Collared Dove",
+    "level": 1,
+    "location": "Residential Area",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Pink-necked Green Pigeon",
+    "level": 1,
+    "location": "Windmill Flower Field",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Woodchat Shrike",
+    "level": 2,
+    "location": "Suburbs",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Great Tit",
+    "level": 2,
+    "location": "Crater Lake\nRuins",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Seagull",
+    "level": 2,
+    "location": "Seaside",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Nuthatch",
+    "level": 2,
+    "location": "East Pier of Fishing Village\nFishing Village Square",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Stock Dove",
+    "level": 2,
+    "location": "Central Square",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Chaffinch",
+    "level": 2,
+    "location": "Windmill Flower Field",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Wigeon",
+    "level": 2,
+    "location": "River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Shag",
+    "level": 3,
+    "location": "Forest Island",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Double-barred Finch",
+    "level": 3,
+    "location": "Lighthouse",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "King Eider",
+    "level": 3,
+    "location": "River",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Audouin's Gull",
+    "level": 3,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Red-and-Green Macaw",
+    "level": 3,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Silver-throated Tit",
+    "level": 3,
+    "location": "Forest Jump Puzzle",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eurasian Golden Oriole",
+    "level": 3,
+    "location": "Residential Area",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Ruddy Shelduck",
+    "level": 3,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Pine Grosbeak",
+    "level": 4,
+    "location": "Forest Island",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Lady Amherst Pheasant",
+    "level": 4,
+    "location": "Ruins",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "White Wagtail",
+    "level": 4,
+    "location": "Amethyst Beach",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Regent Bowerbird",
+    "level": 4,
+    "location": "Spirit-Oak Pine Forest",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Przevalski's Parrotbill",
+    "level": 4,
+    "location": "East Pier of Fishing Village\nFishing Village Square",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Smew",
+    "level": 4,
+    "location": "Forest Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Wallace's Fruit Dove",
+    "level": 4,
+    "location": "Windmill Flower Field",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "European Bee-eater",
+    "level": 5,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Brown Noddy",
+    "level": 5,
+    "location": "Old Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Lesser Flamingo",
+    "level": 5,
+    "location": "Forest Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Great Green Macaw",
+    "level": 5,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "African Olive Pigeon",
+    "level": 5,
+    "location": "Onsen\nOnsen Mountain Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Yellow Bellied Flycatcher",
+    "level": 5,
+    "location": "Fishing Village Square\nWharf",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Long Eared Owl",
+    "level": 6,
+    "location": "Stone Cliff\nOnsen Mountain Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Red Faced Cormorant",
+    "level": 6,
+    "location": "Old Sea\nWhale Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Cinnamon Ground Dove",
+    "level": 6,
+    "location": "East Pier of Fishing Village\nFishing Village Square",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Hawfinch",
+    "level": 6,
+    "location": "Onsen Mountain Lake\nCrater Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Common Kestrel",
+    "level": 7,
+    "location": "Deer Tower",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Tern",
+    "level": 7,
+    "location": "East Sea\nSeaside",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Lear's Macaw",
+    "level": 7,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Azure Tit",
+    "level": 7,
+    "location": "Windmill Flower Field\nMeadow Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Jambu Fruit Dove",
+    "level": 7,
+    "location": "Suburbs",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Peregrine Falcon",
+    "level": 8,
+    "location": "Stone Cliff\nOnsen",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eastern Bluebird",
+    "level": 8,
+    "location": "Suburbs",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Pink Pigeon",
+    "level": 8,
+    "location": "Whale Mountain\nWindmill Flower Field",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Redpoll",
+    "level": 8,
+    "location": "Spirit-Oak Pine Forest",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Imperial Shag",
+    "level": 9,
+    "location": "East Sea\nZephyr Sea",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "American Flamingo",
+    "level": 9,
+    "location": "Amethyst Beach",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "White-headed Duck",
+    "level": 9,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Green Peafowl",
+    "level": 9,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Paradise Tanager",
+    "level": 9,
+    "location": "Suburbs",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Eagle-owl",
+    "level": 10,
+    "location": "Deer Tower",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Azores Bullfinch",
+    "level": 10,
+    "location": "Lighthouse",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Amur Falcon",
+    "level": 10,
+    "location": "Crater Lake\nRuins",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Verditer Flycatcher",
+    "level": 10,
+    "location": "Forest Jump Puzzle",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Baikal Teal",
+    "level": 11,
+    "location": "Onsen Mountain Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Inca Tern",
+    "level": 11,
+    "location": "Old Sea",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk"]
+  },
+  {
+    "name": "Chestnut-cheeked Starling",
+    "level": 11,
+    "location": "Windmill Flower Field",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blue-headed Quail-dove",
+    "level": 10,
+    "location": "Suburbs",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "White Peafowl",
+    "level": 11,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Snowy Owl",
+    "level": 12,
+    "location": "Spirit-Oak Pine Forest",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk"]
+  },
+  {
+    "name": "Red-browed Finch",
+    "level": 12,
+    "location": "Crater Lake",
+    "weather": ["Rainbow", "RBX"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Atlantic Puffin",
+    "level": 12,
+    "location": "Whale Sea",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Blue-footed Booby",
+    "level": 12,
+    "location": "Zephyr Sea",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Whooper Swan",
+    "level": 13,
+    "location": "Suburban Lake",
+    "weather": ["Sunny", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Black Swan",
+    "level": 13,
+    "location": "Suburban Lake",
+    "weather": ["Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Black Peafowl",
+    "level": 13,
+    "location": "[Event] Nest of Hundreds",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dawn", "Dusk", "Night"]
+  },
+  {
+    "name": "Black Stork",
+    "level": 14,
+    "location": "Meadow Lake",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Day", "Dusk", "Night"]
+  },
+  {
+    "name": "Spectacled Owl",
+    "level": 14,
+    "location": "Forest Jump Puzzle",
+    "weather": ["Sunny", "Rainy", "Rainbow"],
+    "time": ["Dawn", "Night"]
+  }
+]
